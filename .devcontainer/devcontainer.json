@@ -1,0 +1,8 @@
+{
+    "name": "CIS 531 Dev Container",
+    "build": {
+        "dockerfile": "../Dockerfile"
+    },
+    "remoteUser": "vscode",
+    "overrideCommand": true
+}

@@ -1,0 +1,2 @@
+Environment String: torch-2.2.1+cu121_transformers-4.38.2_mlflow-2.11.1_faiss-1.8.0
+SHA-256 Digest: 0ba2b59412567685483251a425ea9585f01db0d4117848670ea4f5d90794e16e
